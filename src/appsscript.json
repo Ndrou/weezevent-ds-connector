@@ -1,0 +1,17 @@
+{
+  "timeZone": "Europe/Paris",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Weezevent",
+    "logoUrl": "https://raw.githubusercontent.com/Ndrou/weezevent-ds-connector/master/logo.jpg",
+    "company": "Uptopush Studio",
+    "companyUrl": "https://www.uptopush.com/",
+    "addonUrl": "https://github.com/Ndrou/weezevent-ds-connector",
+    "supportUrl": "https://github.com/Ndrou/weezevent-ds-connector/issues",
+    "description": "Get weezevent participants per event",
+    "sources": ["weezevent"]
+  }
+}
